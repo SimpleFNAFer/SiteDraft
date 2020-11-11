@@ -326,3 +326,432 @@
     text-transform: uppercase;
     color: #FFFFFF;
 }
+
+#SearchFaS {
+    position: absolute;
+    width: 124px;
+    height: 25px;
+    left: 862px;
+    top: 20px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #E78484;
+}
+
+#GirlR {
+    position: absolute;
+    width: 269px;
+    height: 402px;
+    left: 890px;
+    top: 1020px;
+}
+
+#BoyL {
+    position: absolute;
+    width: 280px;
+    height: 409px;
+    left: 207px;
+    top: 1013px;
+}
+
+#SecondFrameRightTriangle {
+    position: absolute;
+    width: 398.86px;
+    height: 692.3px;
+    left: 1085.77px;
+    top: 732px;
+}
+
+#SignInBack {
+    position: absolute;
+    width: 594.36px;
+    height: 593.53px;
+    left: 417px;
+    top: 880px;
+}
+
+#SignInForm {
+    position: absolute;
+    width: 442px;
+    height: 233px;
+    left: 483px;
+    top: 896px;
+}
+
+#LoginRect {
+    position: absolute;
+    width: 352px;
+    height: 42px;
+    left: 530px;
+    top: 980px;
+    background: rgba(206, 82, 82, 0.48);
+    border-radius: 10px;
+}
+
+#PasswordRect {
+    position: absolute;
+    width: 352px;
+    height: 42px;
+    left: 530px;
+    top: 1036px;
+    background: rgba(206, 82, 82, 0.48);
+    border-radius: 10px;
+}
+
+#Login {
+    position: absolute;
+    width: 87px;
+    height: 26px;
+    left: 548px;
+    top: 987px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #E78484;
+}
+
+#Password {
+    position: absolute;
+    width: 112px;
+    height: 26px;
+    left: 548px;
+    top: 1044px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #E78484;
+}
+
+#FgYP {
+    position: absolute;
+    width: 162px;
+    height: 26px;
+    left: 530px;
+    top: 1088px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #E78484;
+}
+
+#CrAnAcc {
+    position: absolute;
+    width: 133px;
+    height: 26px;
+    left: 742px;
+    top: 1088px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    color: #E78484;
+}
+
+#MiddleText {
+    position: absolute;
+    width: 419px;
+    height: 213px;
+    left: 484px;
+    top: 1168px;
+    font-family: Hind;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 29px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #CCC2C2;
+}
+
+#JtheComm {
+    position: absolute;
+    width: 459px;
+    height: 57px;
+    left: 476px;
+    top: 780px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 58px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#ExTheNews {
+    position: absolute;
+    width: 437px;
+    height: 57px;
+    left: 483px;
+    top: 1519px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 58px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#ThirdFrameUpTrgl {
+    position: absolute;
+    width: 963.59px;
+    height: 837.96px;
+    left: 681px;
+    top: 1223px;
+}
+
+#ThirdFrameBottomLeftTrgl {
+    position: absolute;
+    width: 640px;
+    height: 846.26px;
+    left: -255px;
+    top: 2038px;
+}
+
+#ThirdFrameBottomRightTrgl {
+    position: absolute;
+    width: 405.58px;
+    height: 433.65px;
+    left: 984px;
+    top: 2584px;
+}
+
+#NewsAmBckgr {
+    position: absolute;
+    width: 466px;
+    height: 542px;
+    left: 811px;
+    top: 1617px;
+    background: #09091F;
+}
+
+#NewsASPBckgr {
+    position: absolute;
+    width: 167px;
+    height: 342px;
+    left: 1110px;
+    top: 2173px;
+    background: #09091F;
+}
+
+#NewsBBBckgr {
+    position: absolute;
+    width: 466px;
+    height: 542px;
+    left: 147px;
+    top: 2172px;
+    background: #09091F;
+}
+
+#NewsMWBckgr {
+    position: absolute;
+    width: 466px;
+    height: 342px;
+    left: 629px;
+    top: 2173px;
+    background: #09091F;
+}
+
+#NewsPWBckgr {
+    position: absolute;
+    width: 403px;
+    height: 542px;
+    left: 40px;
+    top: 1617px;
+    background: #09091F;
+}
+
+#NewsRTBckgr {
+    position: absolute;
+    width: 648px;
+    height: 185px;
+    left: 629px;
+    top: 2529px;
+    background: #09091F;
+}
+
+#NewsSbBckgr {
+    position: absolute;
+    width: 339px;
+    height: 542px;
+    left: 459px;
+    top: 1617px;
+    background: #09091F;
+}
+
+#NewsAmImg {
+    position: absolute;
+    width: 446px;
+    height: 334px;
+    left: 817px;
+    top: 1628px;
+}
+
+#NewsASPImg {
+    position: absolute;
+    width: 148px;
+    height: 324px;
+    left: 1119px;
+    top: 2181px;
+}
+
+#NewsBBImg {
+    position: absolute;
+    width: 450px;
+    height: 385px;
+    left: 157px;
+    top: 2181px;
+}
+
+#NewsMWImg {
+    position: absolute;
+    width: 448px;
+    height: 222px;
+    left: 639px;
+    top: 2182px;
+}
+
+#NewsPWImg {
+    position: absolute;
+    width: 366px;
+    height: 350px;
+    left: 58px;
+    top: 1628px;
+}
+
+#NewsRTImg {
+    position: absolute;
+    width: 330px;
+    height: 166px;
+    left: 636px;
+    top: 2539px;
+}
+
+#NewsSbImg {
+    position: absolute;
+    width: 328px;
+    height: 334px;
+    left: 462px;
+    top: 1628px;
+}
+
+#AmTxt {
+    position: absolute;
+    width: 377px;
+    height: 115px;
+    left: 833px;
+    top: 1996px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#BBTxt {
+    position: absolute;
+    width: 450px;
+    height: 128px;
+    left: 163px;
+    top: 2577px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#MWTxt {
+    position: absolute;
+    width: 450px;
+    height: 77px;
+    left: 645px;
+    top: 2420px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#PWTxt {
+    position: absolute;
+    width: 344px;
+    height: 115px;
+    left: 80px;
+    top: 1996px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#RTTxt {
+    position: absolute;
+    width: 265px;
+    height: 162px;
+    left: 985px;
+    top: 2543px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
+
+#SbTxt {
+    position: absolute;
+    width: 303px;
+    height: 115px;
+    left: 478px;
+    top: 1996px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #E9DFDF;
+}
