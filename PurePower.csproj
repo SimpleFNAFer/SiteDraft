@@ -74,10 +74,16 @@
     <Content Include="assets\ASPPic1.jpg" />
     <Content Include="assets\BattleBeastPic1.jpg" />
     <Content Include="assets\BottomTriangleRight.svg" />
+    <Content Include="assets\FirstFrameAmRect.svg" />
+    <Content Include="assets\FirstFrameASPRect.svg" />
+    <Content Include="assets\FirstFrameBBRect.svg" />
     <Content Include="assets\FirstFrameLeftBackground.svg" />
     <Content Include="assets\FirstFrameMiddleText.svg" />
+    <Content Include="assets\FirstFrameNwRect.svg" />
+    <Content Include="assets\FirstFramePWRect.svg" />
     <Content Include="assets\FirstFrameRightBackground.svg" />
     <Content Include="assets\FirstFrameRightBackgroundTexture.svg" />
+    <Content Include="assets\FirstFrameSbRect.svg" />
     <Content Include="assets\FirstTriangleRight.svg" />
     <Content Include="assets\LeftTriangleGroup.svg" />
     <Content Include="assets\LordiPic1.jpg" />
@@ -88,6 +94,7 @@
     <Content Include="assets\SabatonPic1.jpg" />
     <Content Include="assets\ScheduleButton.svg" />
     <Content Include="assets\SearchForSong.svg" />
+    <Content Include="assets\SearchIcon.svg" />
     <Content Include="assets\SideMenuOpener.svg" />
     <Content Include="assets\SignInButton.svg" />
     <Content Include="assets\ToolBarBack.svg" />

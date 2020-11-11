@@ -115,7 +115,7 @@
     position: absolute;
     width: 361.35px;
     height: 360.78px;
-    left: 1212.98px;
+    left: 1112.98px;
     top: 466.48px;
 }
 
@@ -141,4 +141,125 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+
+#FirstFrameAmRect {
+    position: absolute;
+    width: 325px;
+    height: 279px;
+    left: 940px;
+    top: 132px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#FirstFrameASPRect {
+    position: absolute;
+    width: 146px;
+    height: 277px;
+    left: 1119px;
+    top: 411px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#FirstFrameBBRect {
+    position: absolute;
+    width: 199px;
+    height: 166px;
+    left: 731px;
+    top: 132px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#FirstFrameNwRect {
+    position: absolute;
+    width: 121px;
+    height: 81px;
+    left: 737px;
+    top: 415px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#FirstFramePWRect {
+    position: absolute;
+    width: 248px;
+    height: 183px;
+    left: 864px;
+    top: 413px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#FirstFrameSbRect {
+    position: absolute;
+    width: 199px;
+    height: 113px;
+    left: 731px;
+    top: 298px;
+    background: linear-gradient(180deg, #4E1717 0%, rgba(163, 54, 54, 0) 100%);
+    border-radius: 10px;
+}
+
+#AmaranthePic1 {
+    position: absolute;
+    width: 310px;
+    height: 263px;
+    left: 946px;
+    top: 137px;
+    background: url(assets/AmaranthePic1.jpg);
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+#ASPPic1 {
+    position: absolute;
+    width: 136px;
+    height: 252px;
+    left: 1124px;
+    top: 419px;
+    border-radius: 10px;
+    object-fit: cover;
+}
+
+#BattleBeastPic1 {
+    position: absolute;
+    width: 187px;
+    height: 155px;
+    left: 737px;
+    top: 137px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#NightwishPic1 {
+    position: absolute;
+    width: 113px;
+    height: 75px;
+    left: 741px;
+    top: 417px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#PowerwolfPic1 {
+    position: absolute;
+    width: 239px;
+    height: 167px;
+    left: 868px;
+    top: 417px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#SabatonPic1 {
+    position: absolute;
+    width: 187px;
+    height: 97px;
+    left: 737px;
+    top: 302px;
+    object-fit: cover;
+    border-radius: 10px;
 }
