@@ -269,6 +269,63 @@
     position: absolute;
     width: 24.01px;
     height: 24.01px;
-    left: 1025px;
+    left: 825px;
     top: 23px;
+}
+
+#MainText {
+    position: absolute;
+    width: 124px;
+    height: 25px;
+    left: 365px;
+    top: 22px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 0.5px solid #FFFFFF;
+}
+
+#ScheduleText {
+    position: absolute;
+    width: 124px;
+    height: 25px;
+    left: 517px;
+    top: 21px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 0.5px solid #FFFFFF;
+}
+
+#SignInText {
+    position: absolute;
+    width: 124px;
+    height: 25px;
+    left: 664px;
+    top: 21px;
+    font-family: Didact Gothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: 0.5px solid #FFFFFF;
 }
