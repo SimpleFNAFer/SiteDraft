@@ -289,7 +289,6 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    border: 0.5px solid #FFFFFF;
 }
 
 #ScheduleText {
@@ -308,7 +307,6 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    border: 0.5px solid #FFFFFF;
 }
 
 #SignInText {
@@ -327,5 +325,4 @@
     text-align: center;
     text-transform: uppercase;
     color: #FFFFFF;
-    border: 0.5px solid #FFFFFF;
 }
