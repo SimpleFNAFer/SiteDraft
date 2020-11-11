@@ -755,3 +755,103 @@
     text-transform: uppercase;
     color: #E9DFDF;
 }
+
+#FooterBack {
+    position: absolute;
+    width: 1366px;
+    height: 345px;
+    left: 0px;
+    top: 3114px;
+}
+
+#BottomSmile {
+    position: absolute;
+    width: 245px;
+    height: 245px;
+    left: 117px;
+    top: 2900px;
+}
+
+#PurePowerLogoBot {
+    position: absolute;
+    width: 165px;
+    height: 50px;
+    left: 157px;
+    top: 3145px;
+}
+
+#CopyRight {
+    position: absolute;
+    width: 218px;
+    height: 24px;
+    left: 157px;
+    top: 3410px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #BCB0B0;
+}
+
+#GetApp {
+    position: absolute;
+    width: 82px;
+    height: 24px;
+    left: 408px;
+    top: 3410px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #BCB0B0;
+}
+
+#Follow {
+    position: absolute;
+    width: 97px;
+    height: 24px;
+    left: 741px;
+    top: 3410px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #BCB0B0;
+}
+
+#ToU {
+    position: absolute;
+    width: 97px;
+    height: 24px;
+    left: 1086px;
+    top: 3410px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #BCB0B0;
+}
+
+#PP {
+    position: absolute;
+    width: 97px;
+    height: 24px;
+    left: 1183px;
+    top: 3410px;
+    font-family: Amaranth;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #BCB0B0;
+}
+

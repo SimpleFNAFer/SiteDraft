@@ -73,6 +73,7 @@
     <Content Include="assets\AmaranthePic1.jpg" />
     <Content Include="assets\ASPPic1.jpg" />
     <Content Include="assets\BattleBeastPic1.jpg" />
+    <Content Include="assets\BottomSmile.svg" />
     <Content Include="assets\BottomTriangleRight.svg" />
     <Content Include="assets\BoyL.svg" />
     <Content Include="assets\FirstFrameAmRect.svg" />
@@ -86,6 +87,7 @@
     <Content Include="assets\FirstFrameRightBackgroundTexture.svg" />
     <Content Include="assets\FirstFrameSbRect.svg" />
     <Content Include="assets\FirstTriangleRight.svg" />
+    <Content Include="assets\FooterBack.svg" />
     <Content Include="assets\GirlR.svg" />
     <Content Include="assets\LeftTriangleGroup.svg" />
     <Content Include="assets\LoginRect.svg" />
@@ -109,6 +111,7 @@
     <Content Include="assets\PasswordRect.svg" />
     <Content Include="assets\PowerwolfPic1.jpg" />
     <Content Include="assets\PurePowerLogo.svg" />
+    <Content Include="assets\PurePowerLogoBot.svg" />
     <Content Include="assets\SabatonPic1.jpg" />
     <Content Include="assets\ScheduleButton.svg" />
     <Content Include="assets\SearchForSong.svg" />
