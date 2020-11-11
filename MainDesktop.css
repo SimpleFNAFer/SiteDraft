@@ -263,3 +263,12 @@
     object-fit: cover;
     border-radius: 10px;
 }
+
+
+#SearchIcon {
+    position: absolute;
+    width: 24.01px;
+    height: 24.01px;
+    left: 1025px;
+    top: 23px;
+}
